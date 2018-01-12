@@ -1,0 +1,1 @@
+# spring-security-jira-auth-provider
